@@ -1,3 +1,5 @@
+> Main Site down, unstable for now!
+
 ## 🎥 JAnimeAPI
 
 - 📚 Comprehensive Anime API for various projects
