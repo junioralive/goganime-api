@@ -1,6 +1,6 @@
 > Main Site down, unstable for now!
 
-## 🎥 JAnimeAPI
+## 🎥 GoGoAnimeAPI
 
 - 📚 Comprehensive Anime API for various projects
 - 🌐 Robust Gogoanime scraper
